@@ -96,7 +96,7 @@
 ## Credits 
 * [![EvaMaria](https://img.shields.io/static/v1?label=EvaMaria&message=Developers&color=critical)](https://t.me/TeamEvamaria)
 * [![ᕼᗩᘉSᗩᖽᐸᗩ](https://img.shields.io/static/v1?label=ᕼᗩᘉSᗩᖽᐸᗩ&message=TG&color=critical)](https://t.me/Hansaka_Anuhas)
-* [![Vᴘ Cʀᴇᴀᴛᴢ(https://img.shields.io/static/v1?label=Vᴘ+Cʀᴇᴀᴛᴢ&message=TG&color=critical)](https://t.me/programcrasher)
+* [![Vᴘ+Cʀᴇᴀᴛᴢ(https://img.shields.io/static/v1?label=Vᴘ+Cʀᴇᴀᴛᴢ&message=TG&color=critical)](https://t.me/programcrasher)
 
 ## Thanks To
  - [Pyrogram](https://t.me/pyrogramchat) To the members who helped
