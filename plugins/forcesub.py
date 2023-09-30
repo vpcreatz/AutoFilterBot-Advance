@@ -44,20 +44,21 @@ async def ForceSub(_, message):
                 
 @Client.on_callback_query(filters.regex("fsub_user"))
 async def unmute_fsubbed(_, query):
-       chat_id = query.message.chat.id
-       user_id = int(query.data.split(":")[1])
-       if not user_id == query.from_user.id:
-           return await query.answer("This Button not for you Nimba!", show_alert=True)
-       else:
-           xx = db.find_one({"chat_id": chat_id})
-           channel = xx["channel"]
-           try:
-              hmm = await _.get_chat_member(chat_id=channel, user_id=user_id)
-           except UserNotParticipant:
-                 return await query.answer("you most join the force channel after click this button to unmute you!", show_alert=True)
-           await _.@restrict_chat_member(chat_id, user_id, ChatPermissions(can_send_messages=True, can_send_media_messages=True, can_send_other_messages=True))
-           return await query.message.edit("Thanks For Joining My Channel Now you can speak to members!")
-
+    chat_id = query.message.chat.id
+    user_id = int(query.data.split(":")[1])
+    
+    if not user_id == query.from_user.id:
+        return await query.answer("This Button is not for you, Nimba!", show_alert=True)
+    else:
+        xx = db.find_one({"chat_id": chat_id})
+        channel = xx["channel"]
+        try:
+            hmm = await _.get_chat_member(chat_id=channel, user_id=user_id)
+        except UserNotParticipant:
+            return await query.answer("You must join the force channel after clicking this button to unmute you!", show_alert=True)
+        
+        await _.restrict_chat_member(chat_id, user_id, ChatPermissions(can_send_messages=True, can_send_media_messages=True, can_send_other_messages=True))
+        return await query.message.edit("Thanks for joining my channel. Now you can speak to members!")
 
 
 @Client.on_message(filters.command("fsub"))
