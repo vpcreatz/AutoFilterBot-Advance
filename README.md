@@ -5,15 +5,15 @@
   <b>𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧 𝘽𝙤𝙩</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+SL_Bots!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+ᕼᗩᘉSᗩᖽᐸᗩ!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+4𝐺𝐵)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+Vᴘ+Cʀᴇᴀᴛ'ᴢ+Aᴅᴠᴀɴᴄᴇ+Rᴇᴘᴏ!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+ᕼᗩᘉSᗩᖽᐸᗩ!;Exᴛʀᴀ+Fᴇᴀᴛᴜʀᴇs+Bʏ+Vᴘ+Cʀᴇᴀᴛᴢ;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+4𝐺𝐵)
 </p>
 
-<a href="https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta/stargazers"><img src="https://img.shields.io/github/stars/HansakaAnuhas-TG/AutoFilterBot-Beta?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta/network/members"> <img src="https://img.shields.io/github/forks/HansakaAnuhas-TG/AutoFilterBot-Beta?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta"> <img src="https://img.shields.io/github/repo-size/HansakaAnuhas-TG/AutoFilterBot-Beta?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
-<a href="https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta/commits"> <img src="https://img.shields.io/github/last-commit/HansakaAnuhas-TG/AutoFilterBot-Beta?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta"> <img src="https://img.shields.io/github/contributors/HansakaAnuhas-TG/AutoFilterBot-Beta?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/vpcreatz/AutoFilterBot-Advance/stargazers"><img src="https://img.shields.io/github/stars/vpcreatz/AutoFilterBot-Advance?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/vpcreatz/AutoFilterBot-Advance/network/members"> <img src="https://img.shields.io/github/forks/vpcreatz/AutoFilterBot-Advance?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/vpcreatz/AutoFilterBot-Advance"> <img src="https://img.shields.io/github/repo-size/vpcreatz/AutoFilterBot-Advance?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
+<a href="https://github.com/vpcreatz/AutoFilterBot-Advance/commits"> <img src="https://img.shields.io/github/last-commit/vpcreatz/AutoFilterBot-Advance?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/vpcreatz/AutoFilterBot-Advance"> <img src="https://img.shields.io/github/contributors/vpcreatz/AutoFilterBot-Advance?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/vpcreatz/AutoFilterBot-Advance/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 
@@ -90,19 +90,17 @@
 
 ## Deploy
 - [Watch Here](https://telegram.dog/aks_bots/6)
+- Deploy Video Credit To [![Tᴇᴄʜɴɪᴄᴀʟ Aᴋs](https://img.shields.io/static/v1?label=Tᴇᴄʜɴɪᴄᴀʟ+Aᴋs&message=TG&color=critical)](https://t.me/technical_aks)
 
-
-## Support
-* [![Support](https://img.shields.io/static/v1?label=Support&message=Group&color=critical)](https://t.me/SL_Bots_Support)
-* [![Updates](https://img.shields.io/static/v1?label=Updates&message=Channel&color=critical)](https://t.me/SL_Bots_Updates)
 
 ## Credits 
 * [![EvaMaria](https://img.shields.io/static/v1?label=EvaMaria&message=Developers&color=critical)](https://t.me/TeamEvamaria)
 * [![ᕼᗩᘉSᗩᖽᐸᗩ](https://img.shields.io/static/v1?label=ᕼᗩᘉSᗩᖽᐸᗩ&message=TG&color=critical)](https://t.me/Hansaka_Anuhas)
+* [![Vᴘ Cʀᴇᴀᴛᴢ(https://img.shields.io/static/v1?label=Vᴘ+Cʀᴇᴀᴛᴢ&message=TG&color=critical)](https://t.me/programcrasher)
 
 ## Thanks To
  - [Pyrogram](https://t.me/pyrogramchat) To the members who helped
- - [Contributors](https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta/graphs/contributors) For free helps
+ - [Contributors](https://github.com/vpcreatz/AutoFilterBot-Advance/graphs/contributors) For free helps
 
 ## Note
  - Importing this repo instead of forking is strictly prohibited, Kindly fork and edit as your wish (Must Give Credits for developer)
